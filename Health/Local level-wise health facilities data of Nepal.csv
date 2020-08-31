@@ -1,0 +1,754 @@
+Governance Units,Provinces,Districts,Name of Government Unit,Hospital,Primary Health Care Centers ,Health Post,Urban Health Centers,Community Health Unit,Other Health Facilities,Total ,Non-public health facilities ,Total health facilities (Public and Non-Public) 
+Rural Municipality,Province 1,Taplejung,Phaktanlung Rural Municipality,0,0,7,0,2,0,9,0,9
+Rural Municipality,Province 1,Taplejung,Mikwakhola Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 1,Taplejung,Meringden Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 1,Taplejung,Maiwakhola Rural Municipality,0,1,2,0,3,0,6,0,6
+Rural Municipality,Province 1,Taplejung,Aatharai Tribeni Rural Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 1,Taplejung,Phungling Municipality,1,0,4,2,3,0,10,5,15
+Rural Municipality,Province 1,Taplejung,Yangwarak Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Taplejung,Sirijanga Rural Municipality,0,1,7,0,1,0,9,0,9
+Rural Municipality,Province 1,Taplejung,Sidingba Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 1,Sankhuwasabha,Bhotkhola Rural Municipality,0,0,3,0,2,0,5,0,5
+Rural Municipality,Province 1,Sankhuwasabha,Makalu Rural Municipality,0,0,5,0,3,0,8,0,8
+Rural Municipality,Province 1,Sankhuwasabha,Silichong Rural Municipality,0,1,3,0,0,0,4,1,5
+Rural Municipality,Province 1,Sankhuwasabha,Chichila Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Province 1,Sankhuwasabha,Sabhapokhari Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 1,Sankhuwasabha,Khandabari Municipality,1,0,5,2,0,0,8,7,15
+Municipality ,Province 1,Sankhuwasabha,Panchakhapan Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Province 1,Sankhuwasabha,Chainapur Municipality,0,1,5,1,2,0,9,0,9
+Municipality ,Province 1,Sankhuwasabha,Madi Municipality,0,0,3,1,0,0,4,0,4
+Municipality ,Province 1,Sankhuwasabha,Dharmadevi Municipality,0,0,3,4,0,0,7,0,7
+Rural Municipality,Province 1,Solukhumbu,Khumbu Pasanglhamu Rural Municipality,0,0,4,0,0,0,4,2,6
+Rural Municipality,Province 1,Solukhumbu,Mahakulung Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 1,Solukhumbu,Sotang Rural Municipality,0,1,1,0,1,0,3,0,3
+Rural Municipality,Province 1,Solukhumbu,Dhudhakoshi Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 1,Solukhumbu,Dhudha Koushika Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Solukhumbu,Necha Salyan Rural Municipality,0,1,3,0,0,0,4,1,5
+Municipality ,Province 1,Solukhumbu,Solu Dhudhakunda Municipality,1,0,9,0,0,1,11,0,11
+Rural Municipality,Province 1,Solukhumbu,Likhu Pike Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Province 1,Okhaldhunga,Chishankhu Gadhi Rural Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 1,Okhaldhunga,Siddhicharan Municipality,1,0,10,0,0,0,11,2,13
+Rural Municipality,Province 1,Okhaldhunga,Molung Rural Municipality,0,0,7,0,0,0,7,1,8
+Rural Municipality,Province 1,Okhaldhunga,Khiji Demba Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Okhaldhunga,Likhu Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Okhaldhunga,Champadevi Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 1,Okhaldhunga,Sunkoshi Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 1,Okhaldhunga,Manebhanjyang Rural Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Province 1,Khotang,Kepilasgadhi Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 1,Khotang,Aiselukharka Rural Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 1,Khotang,Lamidanda Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 1,Khotang,Halesi Tuwachung Municipality,0,0,11,1,1,0,13,0,13
+Municipality ,Province 1,Khotang,Rupakot Majhuwagadhi Municipality,1,0,12,3,0,0,16,2,18
+Rural Municipality,Province 1,Khotang,Sakela Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 1,Khotang,Diprung Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 1,Khotang,Khotehang Rural Municipality,0,0,9,0,0,0,9,0,9
+Rural Municipality,Province 1,Khotang,Jante Dhunga Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 1,Khotang,Baraha Pokhari Rural Municipality,0,0,6,0,2,0,8,0,8
+Municipality ,Province 1,Bhojpur,Shadananda Municipality,0,1,9,1,0,0,11,0,11
+Rural Municipality,Province 1,Bhojpur,Salpa Silichho Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 1,Bhojpur,Tyamke Maiyum Rural Municipality,0,0,9,0,0,0,9,0,9
+Municipality ,Province 1,Bhojpur,Bhojpur Municipality,1,0,7,1,0,1,10,5,15
+Rural Municipality,Province 1,Bhojpur,Arun Rural Municipality,0,1,5,0,1,0,7,0,7
+Rural Municipality,Province 1,Bhojpur,Pauwa Dunma Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Bhojpur,Ramprasad Rai Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 1,Bhojpur,Hatuwagadhi Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 1,Bhojpur,Aamchowk Rural Municipality,0,0,8,0,0,0,8,0,8
+Municipality ,Province 1,Dhankuta,Mahalaxmi Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Province 1,Dhankuta,Pakhribas Municipality,0,0,6,1,0,0,7,0,7
+Rural Municipality,Province 1,Dhankuta,Chhathar Jorpati Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Dhankuta,Dhankuta Municipality,1,0,2,2,1,1,7,9,16
+Rural Municipality,Province 1,Dhankuta,Khalsa Chhintang Sahidbhumi Rural Municipality,0,0,4,0,2,0,6,0,6
+Rural Municipality,Province 1,Dhankuta,Sangurigadhi Rural Municipality,0,1,7,0,0,0,8,0,8
+Rural Municipality,Province 1,Dhankuta,Chaubise Rural Municipality,0,0,7,0,3,0,10,0,10
+Rural Municipality,Province 1,Terhathum,Aatharai Rural Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 1,Terhathum,Phedap Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 1,Terhathum,Menchhayayem Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 1,Terhathum,Myanglung Municipality,1,0,5,1,0,0,7,1,8
+Municipality ,Province 1,Terhathum,Laligurans Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 1,Terhathum,Chhathar Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Panchthar,Yangbarak Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Province 1,Panchthar,Hilihan Rural Municipality,0,1,4,0,1,0,6,0,6
+Rural Municipality,Province 1,Panchthar,Falelung Rural Municipality,0,0,4,0,2,0,6,0,6
+Municipality ,Province 1,Panchthar,Phidim Municipality,1,0,8,1,1,0,11,4,15
+Rural Municipality,Province 1,Panchthar,Falgunanda Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 1,Panchthar,Kummayak Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 1,Panchthar,Tumbewa Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 1,Panchthar,Miklajung Rural Municipality,0,1,5,0,1,0,7,0,7
+Rural Municipality,Province 1,Ilam,Mai Jogmai Rural Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 1,Ilam,Sandakpur Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 1,Ilam,Ilam Municipality,1,0,7,2,1,1,12,3,15
+Municipality ,Province 1,Ilam,Deumai Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 1,Ilam,Fakfokathum Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 1,Ilam,Mangsebung Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Province 1,Ilam,Chulachuli Rural Municipality,0,0,2,0,2,0,4,0,4
+Municipality ,Province 1,Ilam,Mai Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 1,Ilam,Suryodaya Municipality,0,2,6,0,0,0,8,0,8
+Rural Municipality,Province 1,Ilam,Rong Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Jhapa,Mechinagar Municipality,0,1,5,2,1,0,9,2,11
+Rural Municipality,Province 1,Jhapa,Buddhashanti Rural Municipality,0,0,2,0,1,0,3,0,3
+Municipality ,Province 1,Jhapa,Arjundhara Municipality,0,1,2,0,0,0,3,1,4
+Municipality ,Province 1,Jhapa,Kankai Municipality,0,1,1,0,0,0,2,1,3
+Municipality ,Province 1,Jhapa,Shivasatakshi Municipality,0,1,3,0,0,0,4,2,6
+Rural Municipality,Province 1,Jhapa,Kamal Rural Municipality,0,0,2,0,0,0,2,0,2
+Municipality ,Province 1,Jhapa,Damak Municipality,0,0,1,3,0,0,4,9,13
+Municipality ,Province 1,Jhapa,Gauradaha Municipality,0,0,5,1,0,0,6,1,7
+Rural Municipality,Province 1,Jhapa,Gauriganj Rural Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Province 1,Jhapa,Jhapa Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 1,Jhapa,Barhadashi Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 1,Jhapa,Birtamod Municipality,0,0,3,0,0,0,3,15,18
+Rural Municipality,Province 1,Jhapa,Haldibari Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 1,Jhapa,Bhadrapur Municipality,1,0,3,1,0,1,6,1,7
+Rural Municipality,Province 1,Jhapa,Kachanakawal Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 1,Morang,Miklajung Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Morang,Letang Municipality,0,1,3,1,0,0,5,0,5
+Rural Municipality,Province 1,Morang,Kerabari Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Morang,Sundarharaicha Municipality,0,1,4,2,0,0,7,2,9
+Municipality ,Province 1,Morang,Belbari Municipality,0,1,3,1,0,0,5,2,7
+Rural Municipality,Province 1,Morang,Kanepokhari Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 1,Morang,Pathari Shanishchare Municipality,0,0,3,1,0,0,4,2,6
+Municipality ,Province 1,Morang,Urlabari Municipality,1,0,1,1,0,0,3,4,7
+Municipality ,Province 1,Morang,Ratuwamai Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Province 1,Morang,Sunwarshi Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Morang,Rangeli Municipality,1,0,3,1,0,1,6,0,6
+Rural Municipality,Province 1,Morang,Gramthan Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 1,Morang,Budhiganga Rural Municipality,0,0,4,0,0,0,4,0,4
+Metropolitan City,Province 1,Morang,Biratnagar Metropolitan City,1,1,1,1,0,2,6,27,33
+Rural Municipality,Province 1,Morang,Katahari Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 1,Morang,Dhanapalthan Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 1,Morang,Jahada Rural Municipality,0,0,5,0,0,0,5,0,5
+Sub-Metropolitan City,Province 1,Sunsari,Dharan Sub-Metropolitan City,1,0,3,1,1,0,6,4,10
+Municipality ,Province 1,Sunsari,Baraha Municipality,0,2,3,0,0,0,5,0,5
+Rural Municipality,Province 1,Sunsari,Koshi Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 1,Sunsari,Bhokraha Rural Municipality,0,0,2,0,0,0,2,0,2
+Municipality ,Province 1,Sunsari,Ramdhuni Municipality,0,0,4,0,0,0,4,0,4
+Sub-Metropolitan City,Province 1,Sunsari,Itahari Sub-Metropolitan City,0,1,4,5,0,0,10,8,18
+Municipality ,Province 1,Sunsari,Duhabi Municipality,0,0,6,1,1,0,8,1,9
+Rural Municipality,Province 1,Sunsari,Gadhi Rural Municipality,0,1,3,0,0,0,4,0,4
+Municipality ,Province 1,Sunsari,Inaruwa Municipality,1,0,5,1,0,1,8,5,13
+Rural Municipality,Province 1,Sunsari,Harinagara Rural Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 1,Sunsari,Dewangunj Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 1,Sunsari,Barju Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Udayapur,Belaka Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 1,Udayapur,Chaudandigadhi Municipality,0,1,5,0,0,0,6,1,7
+Municipality ,Province 1,Udayapur,Triyuga Municipality,1,0,6,6,0,0,13,3,16
+Rural Municipality,Province 1,Udayapur,Rautamai Rural Municipality,0,0,6,0,0,0,6,1,7
+Rural Municipality,Province 1,Udayapur,Sunkoshi Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 1,Udayapur,Tapli Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 1,Udayapur,Katari Municipality,1,0,8,0,0,0,9,1,10
+Rural Municipality,Province 1,Udayapur,Udayapurgadhi Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Saptari,Saptakoshi Municipality,0,0,3,0,0,0,3,1,4
+Municipality ,Province 2,Saptari,Kanchanrup Municipality,0,1,9,0,0,0,10,2,12
+Rural Municipality,Province 2,Saptari,Agnisair Krishna Sabaran Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Saptari,Rupani Rural Municipality,0,0,5,0,0,0,5,1,6
+Municipality ,Province 2,Saptari,Shambhunath Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 2,Saptari,Khadak Municipality,0,1,7,0,0,0,8,0,8
+Municipality ,Province 2,Saptari,Surunga Municipality,0,1,9,0,0,0,10,0,10
+Rural Municipality,Province 2,Saptari,Balan-Bihul Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Saptari,BodeBarsain Municipality,0,0,9,0,0,0,9,0,9
+Municipality ,Province 2,Saptari,Dakneshwori Municipality,0,0,9,0,0,0,9,0,9
+Rural Municipality,Province 2,Saptari,Belhi Chapena Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Saptari,Bishnupur Rural Municipality,0,0,2,0,0,0,2,0,2
+Municipality ,Province 2,Saptari,Rajbiraj Municipality,1,0,8,1,0,1,11,2,13
+Rural Municipality,Province 2,Saptari,Mahadewa Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Saptari,Tirahut Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Saptari,Hanumannagar Kankalini Municipality,1,0,8,0,0,0,9,1,10
+Rural Municipality,Province 2,Saptari,Tilathi Koiladi Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 2,Saptari,Chhinnamasta Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Siraha,Lahan Municipality,1,0,12,1,0,0,14,27,41
+Municipality ,Province 2,Siraha,Dhangadhimai Municipality,0,0,6,0,0,0,6,6,12
+Municipality ,Province 2,Siraha,Golbazar Municipality,0,0,9,0,0,0,9,6,15
+Municipality ,Province 2,Siraha,Mirchaiya Municipality,0,1,7,0,0,0,8,11,19
+Municipality ,Province 2,Siraha,Karjanha Municipality,0,0,4,0,0,0,4,4,8
+Municipality ,Province 2,Siraha,Kalyanpur Municipality,0,0,11,0,0,0,11,0,11
+Rural Municipality,Province 2,Siraha,Naraha Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Siraha,Bishnupur Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Siraha,Arnama Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Siraha,Sukhipur Municipality,0,0,7,0,0,0,7,1,8
+Rural Municipality,Province 2,Siraha,Laxmipur Patari Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Siraha,Sakhuwa Nankarkatti Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Siraha,Bhagawanpur Rural Municipality,0,1,2,0,0,0,3,0,3
+Rural Municipality,Province 2,Siraha,Nawarajpur Rural Municipality,0,1,2,0,0,0,3,0,3
+Rural Municipality,Province 2,Siraha,Bariyarpatti Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Siraha,Aurahi Rural Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Province 2,Siraha,Siraha Municipality,1,0,12,1,0,1,15,4,19
+Municipality ,Province 2,Dhunasa,Ganeshman Charnath Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Dhunasa,Dhanushadham Municipality,0,1,3,0,0,0,4,0,4
+Municipality ,Province 2,Dhunasa,Mithila Municipality,0,0,7,0,0,0,7,1,8
+Rural Municipality,Province 2,Dhunasa,Bateshwor Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Dhunasa,Chhireshwornath Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Province 2,Dhunasa,Laxminiya Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Dhunasa,Mithila Bihari Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Dhunasa,Hansapur Municipality,0,0,8,0,0,0,8,0,8
+Municipality ,Province 2,Dhunasa,Sabaila Municipality,0,1,7,0,0,0,8,0,8
+Municipality ,Province 2,Dhunasa,Shahidnagar Municipality,0,1,8,0,0,0,9,0,9
+Municipality ,Province 2,Dhunasa,Kamala Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Dhunasa,Janak Nandini Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 2,Dhunasa,Bideha Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Dhunasa,Aurahi Rural Municipality,0,1,3,0,0,0,4,0,4
+Sub-Metropolitan City,Province 2,Dhunasa,Janakpur Sub-Metropolitan City,1,0,10,1,0,1,13,16,29
+Rural Municipality,Province 2,Dhunasa,Dhanauji Rural Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Province 2,Dhunasa,Nagarain Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Dhunasa,Mukhiyapatti Musaharmiya Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Mohattari,Bardibas Municipality,1,0,7,0,0,0,8,10,18
+Municipality ,Province 2,Mohattari,Gaushala Municipality,0,1,6,1,0,0,8,0,8
+Rural Municipality,Province 2,Mohattari,Sonama Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Mohattari,Aurahi Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 2,Mohattari,Bhangaha Municipality,0,0,6,0,1,0,7,0,7
+Municipality ,Province 2,Mohattari,Loharpatti Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Province 2,Mohattari,Balawa Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Mohattari,Ram Gopalpur Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Mohattari,Samsi Rural Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Province 2,Mohattari,Manara Shisawa Municipality,0,0,7,0,1,0,8,0,8
+Rural Municipality,Province 2,Mohattari,Ekadara Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Mohattari,Mahottari Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 2,Mohattari,Pipara Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Mohattari,Matihani Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Province 2,Mohattari,Jaleshwor Municipality,1,0,6,3,0,2,12,3,15
+Municipality ,Province 2,Sarlahi,Lalbandi Municipality,0,1,6,0,0,0,7,2,9
+Municipality ,Province 2,Sarlahi,Hariwan Municipality,0,0,4,0,0,0,4,3,7
+Municipality ,Province 2,Sarlahi,Bagmati Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Sarlahi,Barahathawa Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Province 2,Sarlahi,Haripur Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Province 2,Sarlahi,Ishworpur Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Sarlahi,Haripurwa Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 2,Sarlahi,Parsa Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Sarlahi,Brahmapuri Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Sarlahi,Chandranagar Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Sarlahi,Kabilashi Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 2,Sarlahi,Chakraghatta Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Sarlahi,Basbariya Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Sarlahi,Dhanakaul Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Sarlahi,Ramnagar Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Sarlahi,Balara Municipality,0,1,7,0,0,0,8,0,8
+Municipality ,Province 2,Sarlahi,Godaita Municipality,0,0,9,0,0,0,9,0,9
+Rural Municipality,Province 2,Sarlahi,Bishnu Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Sarlahi,Kaudena Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Sarlahi,Malangawa Municipality,1,0,4,0,0,1,6,4,10
+Municipality ,Province 2,Rautahat,Chandrapur Municipality,1,0,4,0,0,0,5,3,8
+Municipality ,Province 2,Rautahat,Gujara Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Rautahat,Phatuwa Bijayapur Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Rautahat,Katahariya Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Province 2,Rautahat,Brindaban Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Rautahat,Gadhimai Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 2,Rautahat,Madhav Narayan Municipality,0,0,8,0,0,0,8,0,8
+Municipality ,Province 2,Rautahat,Garuda Municipality,0,0,9,0,0,0,9,1,10
+Municipality ,Province 2,Rautahat,Dewahi Gonahi Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Rautahat,Maulapur Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 2,Rautahat,Boudhimai Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Rautahat,Paroha Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 2,Rautahat,Rajpur Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 2,Rautahat,Yamunamai Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Rautahat,Durga Bhagawati Rural Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Province 2,Rautahat,Rajdevi Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 2,Rautahat,Gaur Municipality,1,0,1,0,0,0,2,4,6
+Municipality ,Province 2,Rautahat,Ishanath Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 2,Bara,Nijagadh Municipality,0,1,3,1,0,0,5,3,8
+Municipality ,Province 2,Bara,Kolhabi Municipality,0,1,6,1,1,0,9,2,11
+Sub-Metropolitan City,Province 2,Bara,Jitpur Simara Sub-Metropolitan City,0,1,8,0,1,0,10,5,15
+Rural Municipality,Province 2,Bara,Parawanipur Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Bara,Prasauni Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 2,Bara,Bishrampur Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Bara,Pheta Rural Municipality,0,0,4,0,0,0,4,0,4
+Sub-Metropolitan City,Province 2,Bara,Kalaiya Sub-Metropolitan City,1,0,13,1,0,1,16,12,28
+Rural Municipality,Province 2,Bara,Karaiyamai Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Bara,Baragadhi Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Bara,Aadarsha Kotwal Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 2,Bara,Simroungadh Municipality,0,0,8,1,0,0,9,0,9
+Municipality ,Province 2,Bara,Pacharauta Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 2,Bara,Mahagadhimai Municipality,0,1,8,1,1,0,11,0,11
+Rural Municipality,Province 2,Bara,Devtal Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Bara,Subarna Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 2,Parsa,Thori Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 2,Parsa,Jirabhawani Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Parsa,Jagarnathpur Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 2,Parsa,Paterwa Sugauli Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 2,Parsa,Sakhuwa Prasauni Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 2,Parsa,Parsagadhi Municipality,0,1,4,0,0,0,5,0,5
+Metropolitan City,Province 2,Parsa,Birgunj Metropolitan City,1,1,16,4,0,1,23,34,57
+Municipality ,Province 2,Parsa,Bahudarmai Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 2,Parsa,Pokhariya Municipality,1,0,5,0,0,0,6,0,6
+Rural Municipality,Province 2,Parsa,Kalikamai Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Parsa,Dhobini Rural Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 2,Parsa,Chhipaharmai Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Parsa,Pakaha Mainpur Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 2,Parsa,Bindabasini Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 3,Dolakha,Gaurishankar Rural Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 3,Dolakha,Bigu Rural Municipality,0,0,8,0,2,0,10,0,10
+Rural Municipality,Province 3,Dolakha,Kalinchowk Rural Municipality,0,0,6,0,4,0,10,1,11
+Rural Municipality,Province 3,Dolakha,Baitedhar Rural Municipality,0,0,5,0,2,0,7,1,8
+Municipality ,Province 3,Dolakha,Jiri Municipality,1,0,3,1,0,0,5,0,5
+Rural Municipality,Province 3,Dolakha,Tamakoshi Rural Municipality,0,0,7,0,1,0,8,0,8
+Rural Municipality,Province 3,Dolakha,Melung Rural Municipality,0,0,5,0,2,0,7,0,7
+Rural Municipality,Province 3,Dolakha,Shailung Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 3,Dolakha,Bhimeshwor Municipality,0,1,6,7,1,0,15,8,23
+Rural Municipality,Province 3,Sindhupalchok,Bhotekoshi Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 3,Sindhupalchok,Jugal Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 3,Sindhupalchok,Panchpokhari Thangpal Rural Municipality,0,0,8,0,0,0,8,1,9
+Rural Municipality,Province 3,Sindhupalchok,Helambu Rural Municipality,0,0,5,0,2,0,7,1,8
+Municipality ,Province 3,Sindhupalchok,Melanchi Municipality,0,1,10,2,0,0,13,3,16
+Rural Municipality,Province 3,Sindhupalchok,Indrawoti Rural Municipality,0,0,7,0,1,0,8,0,8
+Municipality ,Province 3,Sindhupalchok,Choutara Sangachowkgadhi Municipality,1,0,9,2,2,1,15,3,18
+Rural Municipality,Province 3,Sindhupalchok,Balephi Rural Municipality,0,1,3,0,1,0,5,0,5
+Municipality ,Province 3,Sindhupalchok,Bahrabise Municipality,0,1,5,0,3,0,9,1,10
+Rural Municipality,Province 3,Sindhupalchok,Tripurasundari Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 3,Sindhupalchok,Lisankhu Pakhar Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 3,Sindhupalchok,Sunkoshi Rural Municipality,0,0,6,0,2,0,8,1,9
+Rural Municipality,Province 3,Rasuwa,Gosaikunda Rural Municipality,1,0,6,0,0,1,8,2,10
+Rural Municipality,Province 3,Rasuwa,Parbatikunda Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 3,Rasuwa,Uttargaya Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Province 3,Rasuwa,Kalika Rural Municipality,0,1,1,0,2,0,4,0,4
+Rural Municipality,Province 3,Rasuwa,Naukunda Rural Municipality,0,0,3,0,3,0,6,0,6
+Rural Municipality,Province 3,Dhading,Rubi Valley Rural Municipality,0,0,3,0,1,0,4,1,5
+Rural Municipality,Province 3,Dhading,Khaniyabas Rural Municipality,0,0,3,0,0,0,3,1,4
+Rural Municipality,Province 3,Dhading,Ganga Jamuna Rural Municipality,0,0,5,0,4,0,9,1,10
+Rural Municipality,Province 3,Dhading,Tripurasundari Rural Municipality,0,1,4,0,0,0,5,1,6
+Rural Municipality,Province 3,Dhading,Netrawati Rural Municipality,0,0,3,0,3,0,6,0,6
+Municipality ,Province 3,Dhading,Nilkhantha Municipality,1,0,7,1,2,1,12,5,17
+Rural Municipality,Province 3,Dhading,Jwalamukhi Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 3,Dhading,Siddhalek Rural Municipality,0,0,3,0,0,0,3,1,4
+Rural Municipality,Province 3,Dhading,Benighat Rorang Rural Municipality,0,0,4,0,4,0,8,1,9
+Rural Municipality,Province 3,Dhading,Gajuri Rural Municipality,0,1,2,0,0,0,3,2,5
+Rural Municipality,Province 3,Dhading,Galchhi Rural Municipality,0,0,3,0,0,0,3,1,4
+Rural Municipality,Province 3,Dhading,Thakre Rural Municipality,0,0,5,0,0,0,5,1,6
+Municipality ,Province 3,Dhading,Dhunibenshi Municipality,0,0,3,0,0,0,3,1,4
+Rural Municipality,Province 3,Nuwakot,Dupcheshwor Rural Municipality,0,0,7,0,0,0,7,1,8
+Rural Municipality,Province 3,Nuwakot,Tadi Rural Municipality,0,1,3,0,1,0,5,0,5
+Rural Municipality,Province 3,Nuwakot,Suryagadhi Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 3,Nuwakot,Bidur Municipality,1,0,6,4,1,1,13,9,22
+Rural Municipality,Province 3,Nuwakot,Kispang Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 3,Nuwakot,Meghang Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 3,Nuwakot,Tarakeshwor Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 3,Nuwakot,Belkotgadhi Municipality,0,0,7,0,2,0,9,1,10
+Rural Municipality,Province 3,Nuwakot,Likhu Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 3,Nuwakot,Panchakanya Rural Municipality,0,0,4,0,1,0,5,1,6
+Rural Municipality,Province 3,Nuwakot,Shivapuri Rural Municipality,0,0,8,0,2,0,10,0,10
+Rural Municipality,Province 3,Nuwakot,Kakani Rural Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Province 3,Kathmandu,Shankharapur Municipality,0,0,6,0,0,0,6,4,10
+Municipality ,Province 3,Kathmandu,Kageshwori Manahara Municipality,0,1,5,0,0,0,6,1,7
+Municipality ,Province 3,Kathmandu,Gokarneshwor Municipality,0,1,4,0,0,0,5,14,19
+Municipality ,Province 3,Kathmandu,Budhanilkhantha Municipality,0,0,6,0,0,0,6,5,11
+Municipality ,Province 3,Kathmandu,Tokha Municipality,0,1,4,0,0,0,5,15,20
+Municipality ,Province 3,Kathmandu,Tarakeshwor Municipality,0,1,6,5,0,0,12,3,15
+Municipality ,Province 3,Kathmandu,Nagarjun Municipality,0,1,4,0,0,0,5,5,10
+Metropolitan City,Province 3,Kathmandu,Kathmandu Metropolitan City,14,1,0,30,0,6,51,885,936
+Municipality ,Province 3,Kathmandu,Kirtipur Municipality,0,1,7,0,0,0,8,6,14
+Municipality ,Province 3,Kathmandu,Chandragiri Municipality,0,0,11,0,0,0,11,7,18
+Municipality ,Province 3,Kathmandu,Dakshinkali Municipality,0,1,5,2,0,0,8,3,11
+Municipality ,Province 3,Bhaktapur,Changunarayan Municipality,0,1,7,0,1,0,9,3,12
+Municipality ,Province 3,Bhaktapur,Bhaktapur Municipality,2,0,0,2,0,2,6,29,35
+Municipality ,Province 3,Bhaktapur,Madhyapur Thimi Municipality,1,0,5,2,1,1,10,16,26
+Municipality ,Province 3,Bhaktapur,Suryabinayak Municipality,0,1,7,0,0,0,8,6,14
+Municipality ,Province 3,Lalitpur,Mahalaxmi Municipality,0,1,4,0,0,0,5,4,9
+Metropolitan City,Province 3,Lalitpur,Lalitpur Metropolitan City,3,0,6,6,1,1,17,167,184
+Municipality ,Province 3,Lalitpur,Godawari Municipality,0,3,10,1,0,0,14,15,29
+Rural Municipality,Province 3,Lalitpur,Konjyosom Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 3,Lalitpur,Mahankal Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 3,Lalitpur,Bagmati Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 3,Kavrepalanchok,Chauri Deurali Rural Municipality,0,0,9,0,0,0,9,3,12
+Rural Municipality,Province 3,Kavrepalanchok,Bhumlu Rural Municipality,0,0,9,0,1,0,10,0,10
+Municipality ,Province 3,Kavrepalanchok,Mandan Deupur Municipality,0,0,7,0,1,0,8,1,9
+Municipality ,Province 3,Kavrepalanchok,Banepa Municipality,0,0,5,2,0,0,7,22,29
+Municipality ,Province 3,Kavrepalanchok,Dhulikhel Municipality,0,1,6,3,0,0,10,1,11
+Municipality ,Province 3,Kavrepalanchok,Panchkhal Municipality,0,1,6,0,0,1,8,3,11
+Rural Municipality,Province 3,Kavrepalanchok,Temal Rural Municipality,0,0,7,0,1,0,8,1,9
+Municipality ,Province 3,Kavrepalanchok,Namobuddha Municipality,1,0,7,0,0,0,8,1,9
+Municipality ,Province 3,Kavrepalanchok,Panauti Municipality,0,2,8,2,3,0,15,2,17
+Rural Municipality,Province 3,Kavrepalanchok,Bethanchowk Rural Municipality,0,0,5,0,0,0,5,1,6
+Rural Municipality,Province 3,Kavrepalanchok,Roshi Rural Municipality,0,0,10,0,1,0,11,1,12
+Rural Municipality,Province 3,Kavrepalanchok,Mahabharat Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 3,Kavrepalanchok,Khanikhola Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 3,Ramechhap,Umakunda Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 3,Ramechhap,Gokulganga Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 3,Ramechhap,Likhu Rural Municipality,0,1,5,0,2,0,8,0,8
+Municipality ,Province 3,Ramechhap,Ramechhap Municipality,1,0,7,3,1,0,12,0,12
+Municipality ,Province 3,Ramechhap,Manthali Municipality,0,2,9,9,0,0,20,5,25
+Rural Municipality,Province 3,Ramechhap,Khandadevi Rural Municipality,0,0,8,0,4,0,12,0,12
+Rural Municipality,Province 3,Ramechhap,Doramba Rural Municipality,0,0,6,0,3,0,9,0,9
+Rural Municipality,Province 3,Ramechhap,Sunapati Rural Municipality,0,0,5,0,2,0,7,0,7
+Municipality ,Province 3,Sindhuli,Dudhouli Municipality,0,1,9,2,0,0,12,3,15
+Rural Municipality,Province 3,Sindhuli,Phikkal Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 3,Sindhuli,Tinpatan Rural Municipality,0,2,6,0,1,0,9,0,9
+Rural Municipality,Province 3,Sindhuli,Golanjor Rural Municipality,0,0,7,0,1,0,8,3,11
+Municipality ,Province 3,Sindhuli,Kamalamai Municipality,1,0,7,3,0,1,12,13,25
+Rural Municipality,Province 3,Sindhuli,Sunkoshi Rural Municipality,0,0,5,0,0,0,5,2,7
+Rural Municipality,Province 3,Sindhuli,Ghyanglekha Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 3,Sindhuli,Marin Rural Municipality,0,1,2,0,1,0,4,0,4
+Rural Municipality,Province 3,Sindhuli,Hariharpurgaghi Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 3,Makwanpur,Indrasarowar Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 3,Makwanpur,Thaha Municipality,0,1,6,2,0,0,9,0,9
+Rural Municipality,Province 3,Makwanpur,Kailash Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 3,Makwanpur,Raksirang Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 3,Makwanpur,Manahari Rural Municipality,0,1,1,0,0,0,2,0,2
+Sub-Metropolitan City,Province 3,Makwanpur,Hetauda Sub-Metropolitan City,1,0,6,4,0,1,12,14,26
+Rural Municipality,Province 3,Makwanpur,Bhimphedi Rural Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 3,Makwanpur,Makawanpurgadhi Rural Municipality,0,0,4,0,4,0,8,0,8
+Rural Municipality,Province 3,Makwanpur,Bakaiya Rural Municipality,0,1,4,0,0,0,5,1,6
+Rural Municipality,Province 3,Makwanpur,Bagmati Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Province 3,Chitwan,Rapti Municipality,0,0,6,0,1,0,7,0,7
+Municipality ,Province 3,Chitwan,Kalika Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Province 3,Chitwan,Ichchha Kamana Rural Municipality,0,0,5,0,0,0,5,0,5
+Metropolitan City,Province 3,Chitwan,Bharatpur Metropolitan City,2,1,13,8,1,1,26,62,88
+Municipality ,Province 3,Chitwan,Ratnanagar Municipality,1,0,3,3,1,0,8,5,13
+Municipality ,Province 3,Chitwan,Khairahani Municipality,0,1,3,0,0,0,4,3,7
+Municipality ,Province 3,Chitwan,Madi Municipality,1,0,3,4,1,0,9,1,10
+Rural Municipality,Gandaki Province,Gorkha,Chumanubri Rural Municipality,0,0,7,0,0,0,7,2,9
+Rural Municipality,Gandaki Province,Gorkha,Ajirkot Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Gandaki Province,Gorkha,Sulikot Rural Municipality,0,0,7,0,0,1,8,0,8
+Rural Municipality,Gandaki Province,Gorkha,Dharche Rural Municipality,0,0,7,0,0,3,10,0,10
+Rural Municipality,Gandaki Province,Gorkha,Aarughat Rural Municipality,0,1,4,0,0,0,5,2,7
+Rural Municipality,Gandaki Province,Gorkha,Bhimsen Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Gandaki Province,Gorkha,Siranchowk Rural Municipality,0,1,6,0,1,0,8,0,8
+Municipality ,Gandaki Province,Gorkha,Palungtar Municipality,0,0,7,0,0,0,7,3,10
+Municipality ,Gandaki Province,Gorkha,Gorkha Municipality,1,0,6,3,0,1,11,3,14
+Rural Municipality,Gandaki Province,Gorkha,Shahid Lakhan Rural Municipality,0,0,6,0,0,1,7,0,7
+Rural Municipality,Gandaki Province,Gorkha,Gandaki Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Gandaki Province,Manang,Naraphu Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Gandaki Province,Manang,Neshang Rural Municipality,0,0,7,0,1,0,8,0,8
+Rural Municipality,Gandaki Province,Manang,Chame Rural Municipality,1,0,1,0,0,0,2,1,3
+Rural Municipality,Gandaki Province,Manang,Nashong Rural Municipality,0,0,3,0,1,0,4,1,5
+Rural Municipality,Gandaki Province,Mustang,Dalome Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Gandaki Province,Mustang,Gharpajhong Rural Municipality,1,0,2,0,0,0,3,0,3
+Rural Municipality,Gandaki Province,Mustang,Bahragaun Muktikshetra Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Gandaki Province,Mustang,Lomanthang Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Gandaki Province,Mustang,Thasang Rural Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Gandaki Province,Myagdi,Annapurna Rural Municipality,0,0,8,0,1,0,9,0,9
+Rural Municipality,Gandaki Province,Myagdi,Raghuganga Rural Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Gandaki Province,Myagdi,Dhawalagiri Rural Municipality,0,0,7,0,2,0,9,0,9
+Rural Municipality,Gandaki Province,Myagdi,Malika Rural Municipality,0,1,5,0,1,0,7,0,7
+Rural Municipality,Gandaki Province,Myagdi,Mangala Rural Municipality,0,0,4,0,3,0,7,0,7
+Municipality ,Gandaki Province,Myagdi,Beni Municipality,1,0,7,0,3,1,12,1,13
+Rural Municipality,Gandaki Province,Kaski,Madi Rural Municipality,0,1,7,0,0,0,8,0,8
+Rural Municipality,Gandaki Province,Kaski,Machhapuchchhre Rural Municipality,0,1,7,0,0,0,8,0,8
+Rural Municipality,Gandaki Province,Kaski,Annapurna Rural Municipality,0,0,5,0,0,0,5,0,5
+Metropolitan City,Gandaki Province,Kaski,Pokhara Lekhnath Metropolitan City,2,2,21,18,0,3,46,21,67
+Rural Municipality,Gandaki Province,Kaski,Rupa Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Gandaki Province,Lamjung,Dordi Rural Municipality,0,0,9,0,0,0,9,0,9
+Rural Municipality,Gandaki Province,Lamjung,Marshyangdi Rural Municipality,0,0,7,0,5,0,12,0,12
+Rural Municipality,Gandaki Province,Lamjung,Kwhola Sothar Rural Municipality,0,0,7,0,3,0,10,0,10
+Municipality ,Gandaki Province,Lamjung,Madhya Nepal Municipality,0,0,10,3,1,0,14,1,15
+Municipality ,Gandaki Province,Lamjung,Bensi Shahar Municipality,1,0,7,3,2,0,13,11,24
+Municipality ,Gandaki Province,Lamjung,Sundarbazar Municipality,1,1,8,2,0,0,12,4,16
+Municipality ,Gandaki Province,Lamjung,Rainas Municipality,0,0,6,0,0,0,6,1,7
+Rural Municipality,Gandaki Province,Lamjung,Dudhapokhari Rural Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Gandaki Province,Tanahu,Bhanu Municipality,0,1,6,0,2,0,9,3,12
+Municipality ,Gandaki Province,Tanahu,Byas Municipality,1,0,10,4,0,0,15,9,24
+Rural Municipality,Gandaki Province,Tanahu,Myagde Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Gandaki Province,Tanahu,Shuklagandaki Municipality,1,0,6,3,1,0,11,6,17
+Municipality ,Gandaki Province,Tanahu,Bhimad Municipality,0,1,4,0,3,0,8,1,9
+Rural Municipality,Gandaki Province,Tanahu,Ghiring Rural Municipality,0,0,3,0,2,0,5,0,5
+Rural Municipality,Gandaki Province,Tanahu,Rhishing Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Gandaki Province,Tanahu,Devghat Rural Municipality,0,0,5,0,1,0,6,1,7
+Rural Municipality,Gandaki Province,Tanahu,Bandipur Rural Municipality,1,0,1,1,1,0,4,2,6
+Rural Municipality,Gandaki Province,Tanahu,Aanbu Khaireni Rural Municipality,0,0,3,0,0,0,3,3,6
+Municipality ,Gandaki Province,Nawalparasi East,Gaidakot Municipality,0,0,4,1,0,0,5,1,6
+Rural Municipality,Gandaki Province,Nawalparasi East,Bulingtar Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Gandaki Province,Nawalparasi East,Bungdikali Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Gandaki Province,Nawalparasi East,Hupsekot Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Gandaki Province,Nawalparasi East,Devchuli Municipality,0,1,3,0,0,0,4,1,5
+Municipality ,Gandaki Province,Nawalparasi East,Kawasoti Municipality,0,0,5,0,0,0,5,9,14
+Municipality ,Gandaki Province,Nawalparasi East,Madhya Bindu Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Gandaki Province,Nawalparasi East,Binayi Tribeni Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Gandaki Province,Syangja,Putalibazar Municipality,1,0,10,2,0,0,13,1,14
+Rural Municipality,Gandaki Province,Syangja,Phedikhola Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Gandaki Province,Syangja,Aandhikhola Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Gandaki Province,Syangja,Arjun Choupari Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Gandaki Province,Syangja,Bhirkot Municipaity,0,0,6,0,0,0,6,1,7
+Rural Municipality,Gandaki Province,Syangja,Biruwa Rural Municipality,0,0,6,0,2,0,8,0,8
+Rural Municipality,Gandaki Province,Syangja,Harinas Rural Municipality,0,0,3,0,1,0,4,0,4
+Municipality ,Gandaki Province,Syangja,Chapakot Municipality,1,0,5,1,2,0,9,1,10
+Municipality ,Gandaki Province,Syangja,Walling Municipality,0,1,9,7,0,0,17,0,17
+Municipality ,Gandaki Province,Syangja,Galyang Municipality,0,1,8,0,0,0,9,1,10
+Rural Municipality,Gandaki Province,Syangja,Kaligandaki Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Gandaki Province,Parbat,Modi Rural Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Gandaki Province,Parbat,Jaljala Rural Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Gandaki Province,Parbat,Kushma Municipality,1,1,9,0,0,1,12,3,15
+Municipality ,Gandaki Province,Parbat,Phalebas Municipality,0,0,11,0,0,0,11,1,12
+Rural Municipality,Gandaki Province,Parbat,Mahashila Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Gandaki Province,Parbat,Bihadi Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Gandaki Province,Parbat,Paiyu Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Gandaki Province,Baglung,Baglung Municipality,1,0,10,4,0,1,16,4,20
+Rural Municipality,Gandaki Province,Baglung,Kathekhola Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Gandaki Province,Baglung,Tarakhola Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Gandaki Province,Baglung,Tamankhola Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Gandaki Province,Baglung,Dhorpatan Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Gandaki Province,Baglung,Nisikhola Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Gandaki Province,Baglung,Badigad Rural Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Gandaki Province,Baglung,Galkot Municipality,0,1,7,0,0,0,8,2,10
+Rural Municipality,Gandaki Province,Baglung,Bareng Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Gandaki Province,Baglung,Jaimuni Municipality,0,1,8,0,0,0,9,0,9
+Rural Municipality,Province 5,Rukum East,Putha Uttanganga Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 5,Rukum East,Sisne Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 5,Rukum East,Bhoome Rural Municipality,0,0,5,0,0,0,5,1,6
+Rural Municipality,Province 5,Rolpa,Sunchhahari Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 5,Rolpa,Thawang Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Province 5,Rolpa,Paribartan Rural Municipality,0,0,5,0,3,0,8,0,8
+Rural Municipality,Province 5,Rolpa,Gangadev Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 5,Rolpa,Madi Rural Municipality,0,0,4,0,2,0,6,1,7
+Rural Municipality,Province 5,Rolpa,Tribeni Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 5,Rolpa,Rolpa Municipality,1,0,7,8,0,0,16,2,18
+Rural Municipality,Province 5,Rolpa,Runtigadhi Rural Municipality,0,1,5,0,1,0,7,0,7
+Rural Municipality,Province 5,Rolpa,Sunil Smriti Rural Municipality,0,1,5,0,0,0,6,2,8
+Rural Municipality,Province 5,Rolpa,Lungri Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Province 5,Pyuthan,Gaumukhi Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 5,Pyuthan,Naubahini Rural Municipality,0,0,6,0,3,0,9,0,9
+Rural Municipality,Province 5,Pyuthan,Jhimaruk Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Province 5,Pyuthan,Pyuthan Municipality,1,0,6,2,0,0,9,5,14
+Municipality ,Province 5,Pyuthan,Sworgadwari Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 5,Pyuthan,Mandavi Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 5,Pyuthan,Mallarani Rural Municipality,0,1,3,1,1,0,6,0,6
+Rural Municipality,Province 5,Pyuthan,Aairawati Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 5,Pyuthan,Sarumarani Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Province 5,Gulmi,Kali Gandaki Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 5,Gulmi,Satyawoti Rural Municipality,0,1,7,0,0,0,8,0,8
+Rural Municipality,Province 5,Gulmi,Chandrakot Rural Municipality,0,0,8,0,1,0,9,1,10
+Municipality ,Province 5,Gulmi,Musikot Municipality,0,0,7,2,2,0,11,3,14
+Rural Municipality,Province 5,Gulmi,Isma Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 5,Gulmi,Malika Rural Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Province 5,Gulmi,Madane Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Province 5,Gulmi,Dhurkot Rural Municipality,0,1,6,0,1,0,8,0,8
+Municipality ,Province 5,Gulmi,Resunga Municipality,1,0,4,5,0,0,10,2,12
+Rural Municipality,Province 5,Gulmi,Gulmi Durbar Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 5,Gulmi,Chhatrakot Rural Municipality,0,1,5,0,1,0,7,0,7
+Rural Municipality,Province 5,Gulmi,Ruru Rural Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 5,Arghakhanchi,Chhatradev Rural Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 5,Arghakhanchi,Malarani Rural Municipality,0,0,6,0,2,0,8,0,8
+Municipality ,Province 5,Arghakhanchi,Bhumikasthan Municipality,0,0,7,0,1,0,8,0,8
+Municipality ,Province 5,Arghakhanchi,Sandhikharka Municipality,1,0,6,1,0,0,8,6,14
+Rural Municipality,Province 5,Arghakhanchi,Panini Rural Municipality,0,0,8,0,1,0,9,1,10
+Municipality ,Province 5,Arghakhanchi,Shitaganga Municipality,0,1,6,0,0,0,7,0,7
+Municipality ,Province 5,Palpa,Rampur Municipality,1,0,4,2,1,0,8,0,8
+Rural Municipality,Province 5,Palpa,Purbakhola Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 5,Palpa,Rambha Rural Municipality,0,1,4,0,0,0,5,0,5
+Rural Municipality,Province 5,Palpa,Baganaskali Rural Municipality,0,0,9,0,0,0,9,0,9
+Municipality ,Province 5,Palpa,Tansen Municipality,1,0,6,2,1,1,11,6,17
+Rural Municipality,Province 5,Palpa,Ribdikot Rural Municipality,0,1,7,0,2,0,10,0,10
+Rural Municipality,Province 5,Palpa,Rainadevi Chhahara Rural Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Province 5,Palpa,Tinau Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Province 5,Palpa,Mathagadhi Rural Municipality,0,0,7,0,1,0,8,0,8
+Rural Municipality,Province 5,Palpa,Nisdi Rural Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Province 5,Nawalparasi West,Bardaghat Municipality,1,0,4,1,1,0,7,6,13
+Municipality ,Province 5,Nawalparasi West,Sunawal Municipality,0,0,3,1,0,0,4,1,5
+Municipality ,Province 5,Nawalparasi West,Ramgram Municipality,1,0,8,2,0,0,11,4,15
+Rural Municipality,Province 5,Nawalparasi West,Palhinandan Rural Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Province 5,Nawalparasi West,Sarawal Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Province 5,Nawalparasi West,Pratapapur Rural Municipality,0,1,6,0,0,0,7,0,7
+Rural Municipality,Province 5,Nawalparasi West,Susta Rural Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Province 5,Rupandehi,Devdaha Municipality,0,0,3,1,1,0,5,1,6
+Sub-Metropolitan City,Province 5,Rupandehi,Butwal Sub-Metropolitan City,1,0,2,6,0,1,10,38,48
+Municipality ,Province 5,Rupandehi,Sainamaina Municipality,0,0,3,1,0,0,4,1,5
+Rural Municipality,Province 5,Rupandehi,Kanchan Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Province 5,Rupandehi,Gaidahawa Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 5,Rupandehi,Suddhodhan Rural Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Province 5,Rupandehi,Siyari Rural Municipality,0,0,5,0,1,0,6,0,6
+Municipality ,Province 5,Rupandehi,Tilottama Municipality,0,0,7,3,0,0,10,1,11
+Rural Municipality,Province 5,Rupandehi,Om Satiya Rural Municipality,0,1,4,0,1,0,6,0,6
+Rural Municipality,Province 5,Rupandehi,Rohini Rural Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Province 5,Rupandehi,Siddharthanagar Municipality,1,0,0,2,0,1,4,26,30
+Rural Municipality,Province 5,Rupandehi,Mayadevi Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Province 5,Rupandehi,Lumbini Sanskritik Municipality,0,1,7,1,0,0,9,0,9
+Rural Municipality,Province 5,Rupandehi,Kotahimai Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 5,Rupandehi,Sammarimai Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Province 5,Rupandehi,Marchawari Rural Municipality,0,1,3,0,0,0,4,1,5
+Municipality ,Province 5,Kapilbastu,Banganga Municipality,1,0,6,1,1,0,9,4,13
+Municipality ,Province 5,Kapilbastu,Buddhabhumi Municipality,0,0,10,1,0,0,11,0,11
+Municipality ,Province 5,Kapilbastu,Shivaraj Municipality,0,0,8,1,1,0,10,2,12
+Rural Municipality,Province 5,Kapilbastu,Bijayanagar Rural Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Province 5,Kapilbastu,Krishnanagar Municipality,1,0,9,1,0,0,11,0,11
+Municipality ,Province 5,Kapilbastu,Maharajganj Municipality,0,1,8,0,0,0,9,0,9
+Municipality ,Province 5,Kapilbastu,Kapilbastu Municipality,1,0,7,1,0,1,10,9,19
+Rural Municipality,Province 5,Kapilbastu,Yasodhara Rural Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Province 5,Kapilbastu,Mayadevi Rural Municipality,0,1,7,0,0,0,8,0,8
+Rural Municipality,Province 5,Kapilbastu,Shuddhodhan Rural Municipality,0,0,6,0,1,0,7,1,8
+Rural Municipality,Province 5,Dang,Bangalachuli Rural Municipality,0,1,3,0,0,0,4,0,4
+Sub-Metropolitan City,Province 5,Dang,Ghorahi Sub-Metropolitan City,1,0,8,4,0,0,13,9,22
+Sub-Metropolitan City,Province 5,Dang,Tulsipur Sub-Metropolitan City,1,0,8,2,0,0,11,3,14
+Rural Municipality,Province 5,Dang,Shantinagar Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Province 5,Dang,Babai Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Province 5,Dang,Dangisharan Rural Municipality,0,1,2,0,0,0,3,0,3
+Municipality ,Province 5,Dang,Lamahi Municipality,1,0,2,0,0,0,3,2,5
+Rural Municipality,Province 5,Dang,Rapti Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Province 5,Dang,Gadhawa Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Province 5,Dang,Rajpur Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Province 5,Banke,Rapti Sonari Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Province 5,Banke,Kohalpur Municipality,0,0,3,0,0,0,3,4,7
+Rural Municipality,Province 5,Banke,Baijanath Rural Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Province 5,Banke,Khajura Rural Municipality,0,1,5,0,0,0,6,1,7
+Rural Municipality,Province 5,Banke,Janaki Rural Municipality,0,0,6,0,0,0,6,1,7
+Sub-Metropolitan City,Province 5,Banke,Nepalganj Sub-Metropolitan City,3,0,11,7,0,1,22,20,42
+Rural Municipality,Province 5,Banke,Duduwa Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Province 5,Banke,Narainapur Rural Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Province 5,Bardiya,Bansgadhi Municipality,0,0,3,3,1,0,7,1,8
+Municipality ,Province 5,Bardiya,Barbardiya Municipality,0,1,3,0,2,0,6,0,6
+Municipality ,Province 5,Bardiya,Thakurbaba Municipality,0,0,4,1,1,0,6,2,8
+Rural Municipality,Province 5,Bardiya,Geruwa Rural Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Province 5,Bardiya,Rajapur Municipality,0,1,6,1,0,0,8,0,8
+Municipality ,Province 5,Bardiya,Madhuwan Municipality,0,0,4,1,0,0,5,1,6
+Municipality ,Province 5,Bardiya,Gulariya Municipality,1,0,3,3,0,1,8,5,13
+Rural Municipality,Province 5,Bardiya,Badhaiyatal Rural Municipality,0,1,3,0,1,0,5,0,5
+Rural Municipality,Karnali Province,Dolpa,Dolpo Buddha Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Karnali Province,Dolpa,Shey Phoksundo Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Dolpa,Jagadulla Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Dolpa,Mudkechula Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Karnali Province,Dolpa,Tripurasundari Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Karnali Province,Dolpa,Thulibheri Municipality,1,0,3,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Dolpa,Kaike Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Karnali Province,Dolpa,Chharka Tangsong Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Karnali Province,Mugu,Mugumkarmarog Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Karnali Province,Mugu,Chhayanath Rara Municipality,1,0,6,0,3,0,10,0,10
+Rural Municipality,Karnali Province,Mugu,Soru Rural Municipality,0,0,7,0,1,0,8,0,8
+Rural Municipality,Karnali Province,Mugu,Khatyad Rural Municipality,0,1,6,0,2,0,9,0,9
+Rural Municipality,Karnali Province,Humla,Chankheli Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Humla,Kharpunath Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Humla,Simkot Rural Municipality,1,0,4,0,0,0,5,1,6
+Rural Municipality,Karnali Province,Humla,Namkha Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Humla,Sarkegad Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Karnali Province,Humla,Adanchuli Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Karnali Province,Humla,Tanjakot Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Karnali Province,Jumla,Patarasi Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Jumla,Kanaka Sundari Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Karnali Province,Jumla,Sinja Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Karnali Province,Jumla,Chandannath Municipality,1,0,3,1,0,1,6,10,16
+Rural Municipality,Karnali Province,Jumla,Guthichaur Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Jumla,Tatopani Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Jumla,Tila Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Karnali Province,Jumla,Hima Rural Municipality,0,1,2,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Kalikot,Palata Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Kalikot,Pachal Jharana Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Karnali Province,Kalikot,Raskot Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Kalikot,Sanni Tribeni Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Kalikot,Naraharinath Rural Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Karnali Province,Kalikot,Khandachakra Municipality,1,0,2,0,0,0,3,0,3
+Municipality ,Karnali Province,Kalikot,Tilagupha Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Karnali Province,Kalikot,Mahawai Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Karnali Province,Kalikot,Kalika Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Dailekh,Naumule Rural Municipality,0,1,6,0,1,0,8,0,8
+Rural Municipality,Karnali Province,Dailekh,Mahabu Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Karnali Province,Dailekh,Bhairabi Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Dailekh,Thantikandh Rural Municipality,0,1,2,0,2,0,5,0,5
+Municipality ,Karnali Province,Dailekh,Aathbis Municipality,0,0,6,0,0,0,6,2,8
+Municipality ,Karnali Province,Dailekh,Chamunda Bindrasaini Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Karnali Province,Dailekh,Dullu Municipality,1,0,9,1,0,0,11,3,14
+Municipality ,Karnali Province,Dailekh,Narayan Municipality,1,0,6,2,0,0,9,5,14
+Rural Municipality,Karnali Province,Dailekh,Bhagawatimai Rural Municipality,0,0,6,0,0,0,6,1,7
+Rural Municipality,Karnali Province,Dailekh,Dungeshwor Rural Municipality,0,0,4,0,0,0,4,2,6
+Rural Municipality,Karnali Province,Dailekh,Gurans Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Karnali Province,Jajarkot,Barekot Rural Municipality,0,1,3,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Jajarkot,Kuse Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Karnali Province,Jajarkot,Junichande Rural Municipality,0,1,3,0,0,0,4,0,4
+Municipality ,Karnali Province,Jajarkot,Chhedagad Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Karnali Province,Jajarkot,Shivalaya Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Karnali Province,Jajarkot,Bheri Malika Municipality,1,0,5,0,0,0,6,0,6
+Municipality ,Karnali Province,Jajarkot,Tribeni Nalagad Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Karnali Province,Rukum West,Aathabisakot Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Karnali Province,Rukum West,Sanibheri Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Rukum West,Banphikot Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Karnali Province,Rukum West,Musikot Municipality,1,0,5,0,0,0,6,1,7
+Rural Municipality,Karnali Province,Rukum West,Tribeni Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Karnali Province,Rukum West,Chaurjahari Municipality,0,1,4,0,0,0,5,1,6
+Rural Municipality,Karnali Province,Salyan,Darma Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Karnali Province,Salyan,Kumakh Malika Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Karnali Province,Salyan,Banagad Kupinde Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Karnali Province,Salyan,Dhorchaur Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Karnali Province,Salyan,Bagachour Municipality,0,1,5,0,0,0,6,0,6
+Rural Municipality,Karnali Province,Salyan,Chhatreshwori Rural Municipality,0,1,3,0,0,0,4,0,4
+Municipality ,Karnali Province,Salyan,Sharada Municipality,1,0,7,0,0,0,8,0,8
+Rural Municipality,Karnali Province,Salyan,Kalimati Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Salyan,Tribeni Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Salyan,Kapurkot Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Karnali Province,Surkhet,Simta Rural Municipality,0,0,8,0,2,0,10,0,10
+Rural Municipality,Karnali Province,Surkhet,Chingad Rural Municipality,0,1,4,0,1,0,6,0,6
+Municipality ,Karnali Province,Surkhet,Lekabeshi Municipality,0,1,4,0,2,0,7,0,7
+Municipality ,Karnali Province,Surkhet,Gurbhakot Municipality,1,0,6,5,1,0,13,1,14
+Municipality ,Karnali Province,Surkhet,Bheriganga Municipality,0,0,4,1,0,0,5,1,6
+Municipality ,Karnali Province,Surkhet,Birendranagar Municipality,1,0,7,8,0,2,18,31,49
+Rural Municipality,Karnali Province,Surkhet,Barahatal Rural Municipality,0,0,5,0,3,0,8,0,8
+Municipality ,Karnali Province,Surkhet,Panchapuri Municipality,0,1,4,0,2,0,7,1,8
+Rural Municipality,Karnali Province,Surkhet,Chaukune Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Bajura,Himali Rural Municipality,0,0,2,0,1,0,3,0,3
+Rural Municipality,Sudurpashchim Province,Bajura,Gaumul Rural Municipality,0,0,2,0,3,0,5,0,5
+Municipality ,Sudurpashchim Province,Bajura,Budhinanda Municipality,0,1,3,1,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Bajura,Swami Kartik Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Bajura,Jagannath Rural Municipality,0,0,2,0,1,0,3,0,3
+Municipality ,Sudurpashchim Province,Bajura,Badimalika Municipality,1,0,3,5,0,0,9,1,10
+Rural Municipality,Sudurpashchim Province,Bajura,Khaptad Chhededaha Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Sudurpashchim Province,Bajura,Budhiganga Municipality,0,0,3,1,0,0,4,0,4
+Municipality ,Sudurpashchim Province,Bajura,Tribeni Municipality,0,0,3,2,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Bajhang,Kanda Rural Municipality,0,0,1,0,0,0,1,0,1
+Municipality ,Sudurpashchim Province,Bajhang,Bungal Municipality,0,0,5,0,3,0,8,0,8
+Rural Municipality,Sudurpashchim Province,Bajhang,Surma Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Sudurpashchim Province,Bajhang,Talkot Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Bajhang,Masta Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Sudurpashchim Province,Bajhang,Jayaprithbi Municipality,1,0,5,2,0,1,9,1,10
+Rural Municipality,Sudurpashchim Province,Bajhang,Chhabis Pathibhara Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Bajhang,Durgathali Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Sudurpashchim Province,Bajhang,Kedarsyun Rural Municipality,0,1,3,0,2,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Bajhang,Bitthadchir Rural Municipality,0,1,2,0,0,0,3,0,3
+Rural Municipality,Sudurpashchim Province,Bajhang,Thalara Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Bajhang,Khaptad Chhanna Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Darchula,Byas Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Darchula,Duhun Rural Municipality,0,0,4,0,0,0,4,0,4
+Municipality ,Sudurpashchim Province,Darchula,Mahakali Municipality,1,0,5,0,0,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Darchula,Naugad Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Darchula,Apihimal Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Sudurpashchim Province,Darchula,Marma Rural Municipality,0,0,5,0,0,0,5,0,5
+Municipality ,Sudurpashchim Province,Darchula,Shailyashikhar Municipality,1,0,5,0,0,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Darchula,Malikarjun Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Darchula,Lekam Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Baitadi,Dilasaini Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Baitadi,Dogada Kedar Rural Municipality,0,0,8,0,0,0,8,0,8
+Municipality ,Sudurpashchim Province,Baitadi,Puchaundi Municipality,0,0,10,0,1,0,11,0,11
+Rural Municipality,Sudurpashchim Province,Baitadi,Surnaya Rural Municipality,0,0,6,0,1,0,7,0,7
+Municipality ,Sudurpashchim Province,Baitadi,Dasharathchand Municipality,1,0,9,3,0,0,13,0,13
+Rural Municipality,Sudurpashchim Province,Baitadi,Pancheshwor Rural Municipality,0,0,6,0,0,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Baitadi,Shivanath Rural Municipality,0,0,3,0,1,0,4,0,4
+Municipality ,Sudurpashchim Province,Baitadi,Melauli Municipality,0,1,4,0,0,0,5,0,5
+Municipality ,Sudurpashchim Province,Baitadi,Patan Municipality,0,1,8,2,1,0,12,1,13
+Rural Municipality,Sudurpashchim Province,Baitadi,Sigas Rural Municipality,0,0,6,0,1,0,7,0,7
+Rural Municipality,Sudurpashchim Province,Dadeldhura,Nawadurga Rural Municipality,0,0,4,0,1,0,5,0,5
+Municipality ,Sudurpashchim Province,Dadeldhura,Amargadhi Municipality,1,0,4,2,1,0,8,10,18
+Rural Municipality,Sudurpashchim Province,Dadeldhura,Ajayameru Rural Municipality,0,0,5,0,1,0,6,0,6
+Rural Municipality,Sudurpashchim Province,Dadeldhura,Bhageshwor Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Sudurpashchim Province,Dadeldhura,Parashuram Municipality,1,0,2,2,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Dadeldhura,Aalital Rural Municipality,0,0,2,0,0,0,2,0,2
+Rural Municipality,Sudurpashchim Province,Dadeldhura,Ganyapdhura Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Doti,Purbichouki Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Sudurpashchim Province,Doti,Sayal Rural Municipality,0,0,3,0,0,0,3,0,3
+Rural Municipality,Sudurpashchim Province,Doti,Aadarsha Rural Municipality,0,0,6,0,1,0,7,1,8
+Municipality ,Sudurpashchim Province,Doti,Shikhar Municipality,0,0,9,0,0,0,9,0,9
+Municipality ,Sudurpashchim Province,Doti,Dipayal Silgadhi Municipality,2,0,4,4,0,0,10,6,16
+Rural Municipality,Sudurpashchim Province,Doti,K.I. Singh Rural Municipality,0,0,5,0,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Doti,Bogatan Rural Municipality,0,1,6,0,2,0,9,0,9
+Rural Municipality,Sudurpashchim Province,Doti,Badi Kedar Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Doti,Jorayal Rural Municipality,0,1,5,0,2,0,8,0,8
+Municipality ,Sudurpashchim Province,Achham,Panchdebal Binayak Municipality,0,0,8,0,0,0,8,0,8
+Rural Municipality,Sudurpashchim Province,Achham,Ramaroshan Rural Municipality,0,0,7,0,0,0,7,0,7
+Rural Municipality,Sudurpashchim Province,Achham,Mellekh Rural Municipality,0,0,7,0,0,0,7,0,7
+Municipality ,Sudurpashchim Province,Achham,Sanphebagar Municipality,0,0,13,1,0,0,14,1,15
+Rural Municipality,Sudurpashchim Province,Achham,Chaurpati Rural Municipality,0,1,5,0,0,0,6,0,6
+Municipality ,Sudurpashchim Province,Achham,Mangalsen Municipality,1,0,8,1,0,0,10,2,12
+Rural Municipality,Sudurpashchim Province,Achham,Bannigadhi Jayagadh Rural Municipality,0,0,6,0,0,0,6,0,6
+Municipality ,Sudurpashchim Province,Achham,Kamal Bazar Municipality,0,1,8,0,0,0,9,0,9
+Rural Municipality,Sudurpashchim Province,Achham,Dhakari Rural Municipality,0,0,4,0,1,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Achham,Turmakhand Rural Municipality,0,0,8,0,1,0,9,0,9
+Rural Municipality,Sudurpashchim Province,Kailali,Mohanyal Rural Municipality,0,0,3,0,1,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Kailali,Chure Rural Municipality,0,0,3,0,2,0,5,0,5
+Municipality ,Sudurpashchim Province,Kailali,Godawari Municipality,1,0,4,3,2,0,10,7,17
+Municipality ,Sudurpashchim Province,Kailali,Gauriganga Municipality,0,1,1,0,1,0,3,0,3
+Municipality ,Sudurpashchim Province,Kailali,Ghodaghodi Municipality,0,0,4,2,0,0,6,1,7
+Rural Municipality,Sudurpashchim Province,Kailali,Bardagoriya Rural Municipality,0,0,2,0,0,0,2,0,2
+Municipality ,Sudurpashchim Province,Kailali,Lamki Chuha Municipality,0,0,3,1,0,0,4,1,5
+Rural Municipality,Sudurpashchim Province,Kailali,Janaki Rural Municipality,0,0,4,0,0,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Kailali,Joshipur Rural Municipality,0,1,1,0,0,0,2,0,2
+Municipality ,Sudurpashchim Province,Kailali,Tikapur Municipality,1,0,2,5,1,0,9,0,9
+Municipality ,Sudurpashchim Province,Kailali,Bhajani Municipality,0,1,3,1,0,0,5,0,5
+Rural Municipality,Sudurpashchim Province,Kailali,Kailari Rural Municipality,0,1,5,0,0,0,6,0,6
+Sub-Metropolitan City,Sudurpashchim Province,Kailali,Dhangadhi Sub-Metropolitan City,1,0,2,8,0,1,12,6,18
+Municipality ,Sudurpashchim Province,Kanchanpur,Krishnapur Municipality,0,0,2,0,3,0,5,0,5
+Municipality ,Sudurpashchim Province,Kanchanpur,Shuklaphanta Municipality,0,0,3,0,1,0,4,0,4
+Municipality ,Sudurpashchim Province,Kanchanpur,Bedkot Municipality,0,0,2,1,2,0,5,0,5
+Municipality ,Sudurpashchim Province,Kanchanpur,Bhimdatta Municipality,1,0,1,7,0,1,10,6,16
+Municipality ,Sudurpashchim Province,Kanchanpur,Mahakali Municipality,0,1,1,1,1,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Kanchanpur,Laljhadi Rural Municipality,0,0,3,0,0,0,3,0,3
+Municipality ,Sudurpashchim Province,Kanchanpur,Punarbas Municipality,0,0,3,1,0,0,4,1,5
+Municipality ,Sudurpashchim Province,Kanchanpur,Belouri Municipality,0,1,2,1,0,0,4,0,4
+Rural Municipality,Sudurpashchim Province,Kanchanpur,Beldandi Rural Municipality,0,1,1,0,0,0,2,0,2
